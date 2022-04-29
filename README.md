@@ -1,2 +1,2 @@
-# Python_Day_3_Print-Types
+# Python_Day_3_Print-statements
 Python Print Types
